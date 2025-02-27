@@ -8,10 +8,15 @@ The Task Manager app is a simple, yet powerful tool to help you organize, priori
 🌟 Features
 
 📝 Add, Edit, and Delete Tasks: Manage your tasks with ease.
+
 🏆 Priority Management: Assign priority levels (Low, Medium, High) to your tasks.
+
 📅 Deadline Tracking: Set deadlines and track overdue tasks.
+
 📊 Task Insights: Visualize task progress and completion status with charts.
+
 🎯 Task Completion Tracker: Keep track of completed and pending tasks.
+
 📁 Download Reports: Download your task list as a CSV file for further analysis or sharing.
 
 🛠️ Installation
